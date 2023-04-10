@@ -1,0 +1,20 @@
+Creating TestNG Framework 
+
+1. Create a Maven Project
+2. Add the dependencies
+3. Create your POM (Page object Model)
+    
+    Pages
+    Test
+    Utils
+
+4. Create Base class and add the configs (WebDriver / Property Reader)
+5. Create Config File    *.properties
+6. Create PageInit.
+7. Create Common Methods
+
+8. Page Init Extends BaseClass
+9. CommonMethods Extends PageInit
+10. Create the Page Java file 
+11. Add the webelement (PLEASE PLEASE USE CUSTOM XPATH)
+12. create the test file and add your test (DONT FORGET THE @Test)
